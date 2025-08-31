@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+pickle-mixin
+matplotlib
+librosa
+parselmouth
+antropy
