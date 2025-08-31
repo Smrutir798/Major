@@ -1,8 +1,8 @@
 streamlit
-numpy
-pandas
-pickle-mixin
+numpy>=1.21
+pandas>=1.5
 matplotlib
 librosa
-parselmouth
+praat-parselmouth
 antropy
+scikit-learn
